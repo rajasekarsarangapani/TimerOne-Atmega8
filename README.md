@@ -1,5 +1,5 @@
-# Timerone-Atmega8
-Timerone using 16bit Timer
+# TimerOne-Atmega8
+TimerOne using 16bit Timer
 
 This is modified from
 
