@@ -1,0 +1,16 @@
+
+
+1. TIMSK1 to TIMSK   in    TimerOne.h
+
+
+2.     //  Atmega 8, etc
+//
+#elif defined (__AVR_ATmega8__) || defined (__AVR_ATmega8L__)
+  #define TIMER1_A_PIN   9
+  #define TIMER1_B_PIN   10
+  #define TIMER1_ICP_PIN 8
+  #define TIMER1_CLK_PIN 5
+  
+
+
+added in known_16bit_timers.h
